@@ -233,6 +233,5 @@ Naive Bayes was chosen as the final model.
 ## 📬 Contact
 
 **Shrestha Gupta**
-B.Tech CSE / AI-ML | 2025-26
+B.Tech CSE / AI-ML | 2025-26| 25BCE11249
 
-Feel free to fork this repo and improve it!
